@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
-  "apkUrl": "ضع_هنا_رابط_تحميل_ملف_الـAPK_الجديد",
-  "updateMessage": "تحديث جديد! تم تحسين السرعة وإضافة ميزات خرافية."
+  "versionCode": 4,
+  "apkUrl": "https://github.com/yaserbarware/-ytvplus/raw/main/app-debug.apk",
+  "updateMessage": "تحديث جديد 3.5: إضافة نظام تأكيد الخروج، تحسين الفوكس الأزرق، والتشغيل التلقائي!"
 }
